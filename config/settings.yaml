@@ -1,0 +1,119 @@
+# Business rules for the OKR + Jira pipeline.
+# Change values here, not in the code. A value the pipeline cannot use stops the run
+# with an explanation, so wrong numbers are not published.
+
+files:
+  raw_dir: data/raw
+  output_dir: data/processed
+  # The newest file matching each pattern is used, so dated exports work unchanged.
+  okr_pattern: "Candidate_OKR*.xlsx"
+  jira_pattern: "Candidate_Jira*.csv"
+
+report:
+  # null reads the date from the OKR export's title. Set YYYY-MM-DD to override.
+  report_date: null
+  report_date_regex: '(\d{1,2}/[^/\s]+/\d{4})'
+
+thresholds:
+  grade_max: 100          # Assumed top of the grade scale. To be confirmed with the OKR owner.
+  material_points: 1.0    # Average-grade change that earns an explanation in the report.
+  stale_days: 90          # An OKR not updated for longer than this counts as stale.
+  low_grade: 50           # Used to spot status/grade conflicts, such as Done with a low grade.
+  min_pairing_share: 0.95 # Share of issues that must follow the key pairing before it repairs keys.
+
+keys:
+  okr_key_regex: '^\s*([A-Za-z]+-\d+)'
+  okr_prefix: "X-"
+  jira_prefix: "DEMO-"
+  okr_placeholder: "X-99999"
+  jira_placeholder: "DEMO-99999"
+
+tiers:
+  top_level: "ERSTE GROUP OBJ."   # Has no parent and is expected to be absent from Jira.
+  key_result: "Key result"
+
+groups:
+  separator: ","
+  unassigned_label: "Unassigned"
+
+metric_types:
+  increase: "Increase"
+  decrease: "Decrease"
+  boolean: "Boolean"
+
+# Each raw status (lowercase, trimmed) belongs to one reporting group.
+# These four group names are used by the report; add new raw statuses beneath them.
+status_groups:
+  Done: [done]
+  On track: [on track, in progress]
+  At risk: [behind, at risk, blocked]
+  Not started: [new, not started, alignment]
+
+# Why each group holds what it does. Shown in the report's Data preparation tab.
+status_group_notes:
+  Done: "Finished. The word is unambiguous, and it is the only status with Jira resolution dates."
+  On track: "Work is moving, with no reported problem. In Progress does not promise health, so this group may flatter delivery slightly."
+  At risk: "Someone has reported a problem with delivery: late (Behind), threatened (At Risk) or stopped (Blocked)."
+  Not started: "Delivery has not begun. Alignment is read as still agreeing scope, which is a judgement to confirm with the OKR owner."
+
+# Month names seen in exports. The language may depend on who downloads the file.
+months:
+  1: [jan, january, januar, jänner]
+  2: [feb, february, februar]
+  3: [mar, march, mär, märz]
+  4: [apr, april]
+  5: [may, mai]
+  6: [jun, june, juni]
+  7: [jul, july, juli]
+  8: [aug, august]
+  9: [sep, sept, september]
+  10: [oct, october, okt, oktober]
+  11: [nov, november]
+  12: [dec, december, dez, dezember]
+
+# Source column name -> name used by the pipeline. Extra source columns are ignored.
+okr_columns:
+  header_marker: "OKR"   # The first header cell; the indented OKR columns start here.
+  map:
+    Type: okr_type
+    Grade: grade_raw
+    Hierarchy grade: hierarchy_grade_raw
+    Owner: owner
+    Stakeholder: stakeholder
+    Group: group_raw
+    Workspace: workspace
+    Cycle: cycle_raw
+    Status: status_raw
+    Start date: start_raw
+    Due date: due_raw
+    Contribute: contribute
+    Weight: weight_raw
+    Parent: parent_raw
+    Labels: labels
+    Metric type: metric_type
+    Start: metric_start
+    Current: metric_current
+    End: metric_end
+    Last grade update date: last_update_raw
+    Last comment update date: last_comment_raw
+
+jira_columns:
+  map:
+    IssueKey: issue_key
+    Summary: summary
+    IssueType: issue_type
+    ProjectKey: project_key
+    Status: status_raw
+    Priority: priority
+    Assignee: assignee
+    Group: group_raw
+    Created: created_raw
+    Updated: updated_raw
+    TargetStart: target_start_raw
+    TargetEnd: target_end_raw
+    ParentKey: parent_key
+    EpicKey: epic_key
+    OKRKey: okr_key
+    StoryPoints: story_points_raw
+    Labels: labels
+    ResolutionDate: resolution_raw

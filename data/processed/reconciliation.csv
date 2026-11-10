@@ -1,0 +1,360 @@
+okr_key,okr_type,cycle,group_raw,issue_key_final,status_conflict,issue_key_repaired,match_category,explanation
+X-1001,ERSTE GROUP OBJ.,2026,"Digital Channels,Data Platforms",,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1002,TRIBE Objectives,2026,Digital Channels,DEMO-1002,False,False,Matched,Linked on OKR key
+X-1003,Key result,2026,Digital Channels,DEMO-1003,False,False,Matched,Linked on OKR key
+X-1004,Initiative,2026,Digital Channels,DEMO-1004,False,False,Matched,Linked on OKR key
+X-1005,Key result,2026,Digital Channels,DEMO-1005,False,False,Matched,Linked on OKR key
+X-1006,Initiative,2026,Digital Channels,DEMO-1006,False,False,Matched,Linked on OKR key
+X-1007,Key result,2026,Digital Channels,DEMO-1007,False,False,Matched,Linked on OKR key
+X-1008,Initiative,2026,Digital Channels,DEMO-1008,False,False,Matched,Linked on OKR key
+X-1009,Initiative,2026,Digital Channels,DEMO-1009,False,False,Matched,Linked on OKR key
+X-1010,Domain/Team,2026,Digital Channels,DEMO-1010,False,False,Matched,Linked on OKR key
+X-1011,Key result,2026,Digital Channels,DEMO-1011,False,False,Matched,Linked on OKR key
+X-1012,TRIBE Objectives,2026,Digital Channels,DEMO-1012,True,False,Matched,Linked on OKR key
+X-1013,Key result,2026,Digital Channels,DEMO-1013,True,False,Matched,Linked on OKR key
+X-1014,Initiative,2026,Digital Channels,DEMO-1014,True,False,Matched,Linked on OKR key
+X-1015,Initiative,2026,Digital Channels,DEMO-1015,True,False,Matched,Linked on OKR key
+X-1016,Key result,2026,Digital Channels,DEMO-1016,False,False,Matched,Linked on OKR key
+X-1017,Initiative,2026,Digital Channels,DEMO-1017,False,False,Matched,Linked on OKR key
+X-1018,Initiative,2026,Digital Channels,DEMO-1018,False,False,Matched,Linked on OKR key
+X-1019,Key result,2026,Digital Channels,DEMO-1019,False,False,Matched,Linked on OKR key
+X-1020,Initiative,2026,Digital Channels,DEMO-1020,False,False,Matched,Linked on OKR key
+X-1021,ERSTE GROUP OBJ.,2026,Data Platforms,,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1022,TRIBE Objectives,2026,Data Platforms,DEMO-1022,False,False,Matched,Linked on OKR key
+X-1023,Key result,2026,Data Platforms,DEMO-1023,False,False,Matched,Linked on OKR key
+X-1024,Initiative,2026,Data Platforms,DEMO-1024,False,True,Matched (issue key repaired),Issue key was shared with other rows; the link holds because the OKR key is unique
+X-1025,Initiative,2026,Data Platforms,DEMO-1025,False,True,Matched (issue key repaired),Issue key was shared with other rows; the link holds because the OKR key is unique
+X-1026,Key result,2026,Data Platforms,DEMO-1026,False,True,Matched (issue key repaired),Issue key was shared with other rows; the link holds because the OKR key is unique
+X-1027,Initiative,2026,Data Platforms,DEMO-1027,False,False,Matched,Linked on OKR key
+X-1028,Initiative,2026,Data Platforms,DEMO-1028,False,False,Matched,Linked on OKR key
+X-1029,Key result,2026,Data Platforms,DEMO-1029,False,False,Matched,Linked on OKR key
+X-1030,Initiative,2026,Data Platforms,DEMO-1030,False,False,Matched,Linked on OKR key
+X-1031,Initiative,2026,Data Platforms,DEMO-1031,False,False,Matched,Linked on OKR key
+X-1032,Domain/Team,2026,Data Platforms,DEMO-1032,False,False,Matched,Linked on OKR key
+X-1033,Key result,2026,Data Platforms,DEMO-1033,False,False,Matched,Linked on OKR key
+X-1034,TRIBE Objectives,2026,Data Platforms,DEMO-1034,False,False,Matched,Linked on OKR key
+X-1035,Key result,2026,Data Platforms,DEMO-1035,False,False,Matched,Linked on OKR key
+X-1036,Initiative,2026,Data Platforms,DEMO-1036,False,False,Matched,Linked on OKR key
+X-1037,Initiative,2026,Data Platforms,DEMO-1037,False,False,Matched,Linked on OKR key
+X-1038,Key result,2026,Data Platforms,DEMO-1038,False,False,Matched,Linked on OKR key
+X-1039,Initiative,2026,Data Platforms,DEMO-1039,False,False,Matched,Linked on OKR key
+X-1040,Initiative,2026,Data Platforms,DEMO-1040,False,False,Matched,Linked on OKR key
+X-1041,Key result,2026,Data Platforms,DEMO-1041,False,False,Matched,Linked on OKR key
+X-1042,Initiative,2026,"Digital Channels,Data Platforms",DEMO-1042,False,False,Matched,Linked on OKR key
+X-1043,ERSTE GROUP OBJ.,2026,Customer Experience,,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1044,TRIBE Objectives,2026,Customer Experience,DEMO-1044,False,False,Matched,Linked on OKR key
+X-1045,Key result,2026,Customer Experience,DEMO-1045,False,False,Matched,Linked on OKR key
+X-1046,Initiative,2026,Customer Experience,DEMO-1046,False,False,Matched,Linked on OKR key
+X-1047,Initiative,2026,Customer Experience,DEMO-1047,False,False,Matched,Linked on OKR key
+X-1048,Key result,2026,Customer Experience,DEMO-1048,False,False,Matched,Linked on OKR key
+X-1049,Initiative,2026,Customer Experience,DEMO-1049,False,False,Matched,Linked on OKR key
+X-1050,Initiative,2026,Customer Experience,DEMO-1050,False,False,Matched,Linked on OKR key
+X-1051,Key result,2026,Customer Experience,DEMO-1051,False,False,Matched,Linked on OKR key
+X-1052,Initiative,2026,Customer Experience,DEMO-1052,False,False,Matched,Linked on OKR key
+X-1053,Domain/Team,2026,Customer Experience,DEMO-1053,False,False,Matched,Linked on OKR key
+X-1054,Key result,2026,Customer Experience,DEMO-1054,False,False,Matched,Linked on OKR key
+X-1055,TRIBE Objectives,2026,Customer Experience,DEMO-1055,False,False,Matched,Linked on OKR key
+X-1056,Key result,2026,Customer Experience,DEMO-1056,False,False,Matched,Linked on OKR key
+X-1057,Initiative,2026,Customer Experience,DEMO-1057,False,False,Matched,Linked on OKR key
+X-1058,Initiative,2026,Customer Experience,DEMO-1058,False,False,Matched,Linked on OKR key
+X-1059,Key result,2026,Customer Experience,DEMO-1059,False,False,Matched,Linked on OKR key
+X-1060,Initiative,2026,Customer Experience,DEMO-1060,False,False,Matched,Linked on OKR key
+X-1061,Initiative,2026,Customer Experience,DEMO-1061,False,False,Matched,Linked on OKR key
+X-1062,Key result,2026,Customer Experience,DEMO-1062,False,False,Matched,Linked on OKR key
+X-1063,Initiative,2026,Customer Experience,DEMO-1063,False,False,Matched,Linked on OKR key
+X-1064,ERSTE GROUP OBJ.,2026,Cloud Engineering,,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1065,TRIBE Objectives,2026,Cloud Engineering,DEMO-1065,False,False,Matched,Linked on OKR key
+X-1066,Key result,2026,Cloud Engineering,DEMO-1066,False,False,Matched,Linked on OKR key
+X-1067,Initiative,2026,Cloud Engineering,DEMO-1067,False,False,Matched,Linked on OKR key
+X-1068,Initiative,2026,Cloud Engineering,DEMO-1068,False,False,Matched,Linked on OKR key
+X-1069,Key result,2026,Cloud Engineering,DEMO-1069,False,False,Matched,Linked on OKR key
+X-1070,Initiative,2026,Cloud Engineering,DEMO-1070,False,False,Matched,Linked on OKR key
+X-1071,Initiative,2026,Cloud Engineering,DEMO-1071,False,False,Matched,Linked on OKR key
+X-1072,Key result,2026,Cloud Engineering,DEMO-1072,False,False,Matched,Linked on OKR key
+X-1073,Initiative,2026,Cloud Engineering,DEMO-1073,False,False,Matched,Linked on OKR key
+X-1074,Initiative,2026,Cloud Engineering,DEMO-1074,False,False,Matched,Linked on OKR key
+X-1075,Domain/Team,2026,Cloud Engineering,DEMO-1075,False,False,Matched,Linked on OKR key
+X-1076,Key result,2026,Cloud Engineering,DEMO-1076,False,False,Matched,Linked on OKR key
+X-1077,TRIBE Objectives,2026,Cloud Engineering,DEMO-1077,False,False,Matched,Linked on OKR key
+X-1078,Key result,2026,Cloud Engineering,DEMO-1078,False,False,Matched,Linked on OKR key
+X-1079,Initiative,2026,Cloud Engineering,DEMO-1079,False,False,Matched,Linked on OKR key
+X-1080,Key result,2026,Cloud Engineering,DEMO-1080,False,False,Matched,Linked on OKR key
+X-1081,Initiative,2026,Cloud Engineering,DEMO-1081,False,False,Matched,Linked on OKR key
+X-1082,Initiative,2026,Cloud Engineering,DEMO-1082,False,False,Matched,Linked on OKR key
+X-1083,Key result,2026,"Digital Channels,Data Platforms",DEMO-1083,False,False,Matched,Linked on OKR key
+X-1084,Initiative,2026,Cloud Engineering,DEMO-1084,False,False,Matched,Linked on OKR key
+X-1085,ERSTE GROUP OBJ.,2026,Risk Technology,,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1086,TRIBE Objectives,2026,Risk Technology,DEMO-1086,False,False,Matched,Linked on OKR key
+X-1087,Key result,2026,Risk Technology,DEMO-1087,False,False,Matched,Linked on OKR key
+X-1088,Initiative,2026,Risk Technology,DEMO-1088,False,False,Matched,Linked on OKR key
+X-1089,Initiative,2026,Risk Technology,DEMO-1089,False,False,Matched,Linked on OKR key
+X-1090,Key result,2026,Risk Technology,DEMO-1090,False,False,Matched,Linked on OKR key
+X-1091,Initiative,2026,Risk Technology,DEMO-1091,False,False,Matched,Linked on OKR key
+X-1092,Initiative,2026,Risk Technology,DEMO-1092,False,False,Matched,Linked on OKR key
+X-1093,Key result,2026,Risk Technology,DEMO-1093,False,False,Matched,Linked on OKR key
+X-1094,Initiative,2026,Risk Technology,DEMO-1094,False,False,Matched,Linked on OKR key
+X-1095,Domain/Team,2026,Risk Technology,DEMO-1095,False,False,Matched,Linked on OKR key
+X-1096,Key result,2026,Risk Technology,DEMO-1096,False,False,Matched,Linked on OKR key
+X-1097,TRIBE Objectives,2026,Risk Technology,DEMO-1097,False,False,Matched,Linked on OKR key
+X-1098,Key result,2026,Risk Technology,DEMO-1098,False,False,Matched,Linked on OKR key
+X-1099,Initiative,2026,Risk Technology,DEMO-1099,False,False,Matched,Linked on OKR key
+X-1100,Key result,2026,Risk Technology,DEMO-1100,False,False,Matched,Linked on OKR key
+X-1101,Initiative,2026,Risk Technology,DEMO-1101,False,False,Matched,Linked on OKR key
+X-1102,Initiative,2026,Risk Technology,DEMO-1102,False,False,Matched,Linked on OKR key
+X-1103,Key result,2026,Risk Technology,DEMO-1103,False,False,Matched,Linked on OKR key
+X-1104,Initiative,2026,Risk Technology,DEMO-1104,False,False,Matched,Linked on OKR key
+X-1105,Initiative,2026,Risk Technology,DEMO-1105,False,False,Matched,Linked on OKR key
+X-1106,ERSTE GROUP OBJ.,2026,Operations Enablement,,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1107,TRIBE Objectives,2026,Operations Enablement,DEMO-1107,False,False,Matched,Linked on OKR key
+X-1108,Key result,2026,Operations Enablement,DEMO-1108,False,False,Matched,Linked on OKR key
+X-1109,Initiative,2026,Operations Enablement,DEMO-1109,False,False,Matched,Linked on OKR key
+X-1110,Initiative,2026,Operations Enablement,DEMO-1110,False,False,Matched,Linked on OKR key
+X-1111,Key result,2026,Operations Enablement,DEMO-1111,False,False,Matched,Linked on OKR key
+X-1112,Initiative,2026,Operations Enablement,DEMO-1112,False,False,Matched,Linked on OKR key
+X-1113,Key result,2026,Operations Enablement,DEMO-1113,False,False,Matched,Linked on OKR key
+X-1114,Initiative,2026,Operations Enablement,DEMO-1114,False,False,Matched,Linked on OKR key
+X-1115,Initiative,2026,Operations Enablement,DEMO-1115,False,False,Matched,Linked on OKR key
+X-1116,Domain/Team,2026,Operations Enablement,DEMO-1116,False,False,Matched,Linked on OKR key
+X-1117,Key result,2026,Operations Enablement,DEMO-1117,False,False,Matched,Linked on OKR key
+X-1118,TRIBE Objectives,2026,Operations Enablement,DEMO-1118,False,False,Matched,Linked on OKR key
+X-1119,Key result,2026,Operations Enablement,DEMO-1119,False,False,Matched,Linked on OKR key
+X-1120,Initiative,2026,Operations Enablement,DEMO-1120,False,False,Matched,Linked on OKR key
+X-1121,Key result,2026,Operations Enablement,DEMO-1121,False,False,Matched,Linked on OKR key
+X-1122,Initiative,2026,Operations Enablement,DEMO-1122,False,False,Matched,Linked on OKR key
+X-1123,Key result,2026,Operations Enablement,DEMO-1123,False,False,Matched,Linked on OKR key
+X-1124,Initiative,2026,"Digital Channels,Data Platforms",DEMO-1124,False,False,Matched,Linked on OKR key
+X-1125,Initiative,2026,Operations Enablement,DEMO-1125,False,False,Matched,Linked on OKR key
+X-1126,ERSTE GROUP OBJ.,2026,Payments Technology,,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1127,TRIBE Objectives,2026,Payments Technology,DEMO-1127,False,False,Matched,Linked on OKR key
+X-1128,Key result,2026,Payments Technology,DEMO-1128,False,False,Matched,Linked on OKR key
+X-1129,Initiative,2026,Payments Technology,DEMO-1129,False,False,Matched,Linked on OKR key
+X-1130,Initiative,2026,Payments Technology,DEMO-1130,False,False,Matched,Linked on OKR key
+X-1131,Key result,2026,Payments Technology,DEMO-1131,False,False,Matched,Linked on OKR key
+X-1132,Initiative,2026,Payments Technology,DEMO-1132,False,False,Matched,Linked on OKR key
+X-1133,Key result,2026,Payments Technology,DEMO-1133,False,False,Matched,Linked on OKR key
+X-1134,Initiative,2026,Payments Technology,DEMO-1134,False,False,Matched,Linked on OKR key
+X-1135,Domain/Team,2026,Payments Technology,DEMO-1135,False,False,Matched,Linked on OKR key
+X-1136,Key result,2026,Payments Technology,DEMO-1136,False,False,Matched,Linked on OKR key
+X-1137,TRIBE Objectives,2026,Payments Technology,DEMO-1137,False,False,Matched,Linked on OKR key
+X-1138,Key result,2026,Payments Technology,DEMO-1138,False,False,Matched,Linked on OKR key
+X-1139,Initiative,2026,Payments Technology,DEMO-1139,False,False,Matched,Linked on OKR key
+X-1140,Key result,2026,Payments Technology,DEMO-1140,False,False,Matched,Linked on OKR key
+X-1141,Initiative,2026,Payments Technology,DEMO-1141,False,False,Matched,Linked on OKR key
+X-1142,Initiative,2026,Payments Technology,DEMO-1142,False,False,Matched,Linked on OKR key
+X-1143,Key result,2026,Payments Technology,DEMO-1143,False,False,Matched,Linked on OKR key
+X-1144,Initiative,2026,Payments Technology,DEMO-1144,False,False,Matched,Linked on OKR key
+X-1145,Initiative,2026,Payments Technology,DEMO-1145,False,False,Matched,Linked on OKR key
+X-1146,ERSTE GROUP OBJ.,2026,Core Services,,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1147,TRIBE Objectives,2026,Core Services,DEMO-1147,False,False,Matched,Linked on OKR key
+X-1148,Key result,2026,Core Services,DEMO-1148,False,False,Matched,Linked on OKR key
+X-1149,Initiative,2026,Core Services,DEMO-1149,False,False,Matched,Linked on OKR key
+X-1150,Key result,2026,Core Services,DEMO-1150,False,False,Matched,Linked on OKR key
+X-1151,Initiative,2026,Core Services,DEMO-1151,False,False,Matched,Linked on OKR key
+X-1152,Initiative,2026,Core Services,DEMO-1152,False,False,Matched,Linked on OKR key
+X-1153,Key result,2026,Core Services,DEMO-1153,False,False,Matched,Linked on OKR key
+X-1154,Initiative,2026,Core Services,DEMO-1154,False,False,Matched,Linked on OKR key
+X-1155,Domain/Team,2026,Core Services,DEMO-1155,False,False,Matched,Linked on OKR key
+X-1156,Key result,2026,Core Services,DEMO-1156,False,False,Matched,Linked on OKR key
+X-1157,TRIBE Objectives,2026,Core Services,DEMO-1157,False,False,Matched,Linked on OKR key
+X-1158,Key result,2026,Core Services,DEMO-1158,False,False,Matched,Linked on OKR key
+X-1159,Initiative,2026,Core Services,DEMO-1159,False,False,Matched,Linked on OKR key
+X-1160,Initiative,2026,Core Services,DEMO-1160,False,False,Matched,Linked on OKR key
+X-1161,Key result,2026,Core Services,DEMO-1161,False,False,Matched,Linked on OKR key
+X-1162,Initiative,2026,Core Services,DEMO-1162,False,False,Matched,Linked on OKR key
+X-1163,Initiative,2026,Core Services,DEMO-1163,False,False,Matched,Linked on OKR key
+X-1164,Key result,2026,Core Services,DEMO-1164,False,False,Matched,Linked on OKR key
+X-1165,Initiative,2026,"Digital Channels,Data Platforms",DEMO-1165,False,False,Matched,Linked on OKR key
+X-1166,ERSTE GROUP OBJ.,2027,Digital Channels,,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1167,TRIBE Objectives,2027,Digital Channels,DEMO-1167,False,False,Matched,Linked on OKR key
+X-1168,Key result,2027,Digital Channels,DEMO-1168,False,False,Matched,Linked on OKR key
+X-1169,Initiative,2027,Digital Channels,DEMO-1169,False,False,Matched,Linked on OKR key
+X-1170,Key result,2027,Digital Channels,DEMO-1170,False,False,Matched,Linked on OKR key
+X-1171,Initiative,2027,Digital Channels,DEMO-1171,False,False,Matched,Linked on OKR key
+X-1172,Key result,2027,Digital Channels,DEMO-1172,False,False,Matched,Linked on OKR key
+X-1173,Initiative,2027,Digital Channels,DEMO-1173,False,False,Matched,Linked on OKR key
+X-1174,Initiative,2027,Digital Channels,DEMO-1174,False,False,Matched,Linked on OKR key
+X-1175,Domain/Team,2027,Digital Channels,DEMO-1175,False,False,Matched,Linked on OKR key
+X-1176,Key result,2027,Digital Channels,DEMO-1176,False,False,Matched,Linked on OKR key
+X-1177,TRIBE Objectives,2027,Digital Channels,DEMO-1177,False,False,Matched,Linked on OKR key
+X-1178,Key result,2027,Digital Channels,DEMO-1178,False,False,Matched,Linked on OKR key
+X-1179,Initiative,2027,Digital Channels,DEMO-1179,False,False,Matched,Linked on OKR key
+X-1180,Key result,2027,Digital Channels,DEMO-1180,False,False,Matched,Linked on OKR key
+X-1181,Initiative,2027,Digital Channels,DEMO-1181,False,False,Matched,Linked on OKR key
+X-1182,Initiative,2027,Digital Channels,DEMO-1182,False,False,Matched,Linked on OKR key
+X-1183,Key result,2027,Digital Channels,DEMO-1183,False,False,Matched,Linked on OKR key
+X-1184,Initiative,2027,Digital Channels,DEMO-1184,False,False,Matched,Linked on OKR key
+X-1185,ERSTE GROUP OBJ.,2027,Data Platforms,,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1186,TRIBE Objectives,2027,Data Platforms,DEMO-1186,False,False,Matched,Linked on OKR key
+X-1187,Key result,2027,Data Platforms,DEMO-1187,False,False,Matched,Linked on OKR key
+X-1188,Initiative,2027,Data Platforms,DEMO-1188,False,False,Matched,Linked on OKR key
+X-1189,Initiative,2027,Data Platforms,DEMO-1189,False,False,Matched,Linked on OKR key
+X-1190,Key result,2027,Data Platforms,DEMO-1190,False,False,Matched,Linked on OKR key
+X-1191,Initiative,2027,Data Platforms,DEMO-1191,False,False,Matched,Linked on OKR key
+X-1192,Key result,2027,Data Platforms,DEMO-1192,False,False,Matched,Linked on OKR key
+X-1193,Initiative,2027,Data Platforms,DEMO-1193,False,False,Matched,Linked on OKR key
+X-1194,Domain/Team,2027,Data Platforms,DEMO-1194,False,False,Matched,Linked on OKR key
+X-1195,Key result,2027,Data Platforms,DEMO-1195,False,False,Matched,Linked on OKR key
+X-1196,TRIBE Objectives,2027,Data Platforms,DEMO-1196,False,False,Matched,Linked on OKR key
+X-1197,Key result,2027,Data Platforms,DEMO-1197,False,False,Matched,Linked on OKR key
+X-1198,Initiative,2027,Data Platforms,DEMO-1198,False,False,Matched,Linked on OKR key
+X-1199,Key result,2027,Data Platforms,DEMO-1199,False,False,Matched,Linked on OKR key
+X-1200,Initiative,2027,Data Platforms,DEMO-1200,False,False,Matched,Linked on OKR key
+X-1201,Initiative,2027,Data Platforms,DEMO-1201,False,False,Matched,Linked on OKR key
+X-1202,Key result,2027,Data Platforms,DEMO-1202,False,False,Matched,Linked on OKR key
+X-1203,Initiative,2027,Data Platforms,DEMO-1203,False,False,Matched,Linked on OKR key
+X-1204,Initiative,2027,Data Platforms,DEMO-1204,False,False,Matched,Linked on OKR key
+X-1205,ERSTE GROUP OBJ.,2027,Customer Experience,,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1206,TRIBE Objectives,2027,"Digital Channels,Data Platforms",DEMO-1206,False,False,Matched,Linked on OKR key
+X-1207,Key result,2027,Customer Experience,DEMO-1207,False,False,Matched,Linked on OKR key
+X-1208,Initiative,2027,Customer Experience,DEMO-1208,False,False,Matched,Linked on OKR key
+X-1209,Key result,2027,Customer Experience,DEMO-1209,False,False,Matched,Linked on OKR key
+X-1210,Initiative,2027,Customer Experience,DEMO-1210,False,False,Matched,Linked on OKR key
+X-1211,Initiative,2027,Customer Experience,DEMO-1211,False,False,Matched,Linked on OKR key
+X-1212,Key result,2027,Customer Experience,DEMO-1212,False,False,Matched,Linked on OKR key
+X-1213,Initiative,2027,Customer Experience,DEMO-1213,False,False,Matched,Linked on OKR key
+X-1214,Domain/Team,2027,Customer Experience,DEMO-1214,False,False,Matched,Linked on OKR key
+X-1215,Key result,2027,Customer Experience,DEMO-1215,False,False,Matched,Linked on OKR key
+X-1216,TRIBE Objectives,2027,Customer Experience,DEMO-1216,False,False,Matched,Linked on OKR key
+X-1217,Key result,2027,Customer Experience,DEMO-1217,False,False,Matched,Linked on OKR key
+X-1218,Initiative,2027,Customer Experience,DEMO-1218,False,False,Matched,Linked on OKR key
+X-1219,Key result,2027,Customer Experience,DEMO-1219,False,False,Matched,Linked on OKR key
+X-1220,Initiative,2027,Customer Experience,DEMO-1220,False,False,Matched,Linked on OKR key
+X-1221,Initiative,2027,Customer Experience,DEMO-1221,False,False,Matched,Linked on OKR key
+X-1222,Key result,2027,Customer Experience,DEMO-1222,False,False,Matched,Linked on OKR key
+X-1223,Initiative,2027,Customer Experience,DEMO-1223,False,False,Matched,Linked on OKR key
+X-1224,Initiative,2027,Customer Experience,DEMO-1224,False,False,Matched,Linked on OKR key
+X-1225,ERSTE GROUP OBJ.,2027,Cloud Engineering,,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1226,TRIBE Objectives,2027,Cloud Engineering,DEMO-1226,False,False,Matched,Linked on OKR key
+X-1227,Key result,2027,Cloud Engineering,DEMO-1227,False,False,Matched,Linked on OKR key
+X-1228,Initiative,2027,Cloud Engineering,DEMO-1228,False,False,Matched,Linked on OKR key
+X-1229,Initiative,2027,Cloud Engineering,DEMO-1229,False,False,Matched,Linked on OKR key
+X-1230,Key result,2027,Cloud Engineering,DEMO-1230,False,False,Matched,Linked on OKR key
+X-1231,Initiative,2027,Cloud Engineering,DEMO-1231,False,False,Matched,Linked on OKR key
+X-1232,Key result,2027,Cloud Engineering,DEMO-1232,False,False,Matched,Linked on OKR key
+X-1233,Initiative,2027,Cloud Engineering,DEMO-1233,False,False,Matched,Linked on OKR key
+X-1234,Initiative,2027,Cloud Engineering,DEMO-1234,False,False,Matched,Linked on OKR key
+X-1235,Domain/Team,2027,Cloud Engineering,DEMO-1235,False,False,Matched,Linked on OKR key
+X-1236,Key result,2027,Cloud Engineering,DEMO-1236,False,False,Matched,Linked on OKR key
+X-1237,TRIBE Objectives,2027,Cloud Engineering,DEMO-1237,False,False,Matched,Linked on OKR key
+X-1238,Key result,2027,Cloud Engineering,DEMO-1238,False,False,Matched,Linked on OKR key
+X-1239,Initiative,2027,Cloud Engineering,DEMO-1239,False,False,Matched,Linked on OKR key
+X-1240,Key result,2027,Cloud Engineering,DEMO-1240,False,False,Matched,Linked on OKR key
+X-1241,Initiative,2027,Cloud Engineering,DEMO-1241,False,False,Matched,Linked on OKR key
+X-1242,Initiative,2027,Cloud Engineering,DEMO-1242,False,False,Matched,Linked on OKR key
+X-1243,Key result,2027,Cloud Engineering,DEMO-1243,False,False,Matched,Linked on OKR key
+X-1244,Initiative,2027,Cloud Engineering,DEMO-1244,False,False,Matched,Linked on OKR key
+X-1245,Initiative,2027,Cloud Engineering,DEMO-1245,False,False,Matched,Linked on OKR key
+X-1246,ERSTE GROUP OBJ.,2027,Risk Technology,,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1247,TRIBE Objectives,2027,"Digital Channels,Data Platforms",DEMO-1247,False,False,Matched,Linked on OKR key
+X-1248,Key result,2027,Risk Technology,DEMO-1248,False,False,Matched,Linked on OKR key
+X-1249,Initiative,2027,Risk Technology,DEMO-1249,False,False,Matched,Linked on OKR key
+X-1250,Initiative,2027,Risk Technology,DEMO-1250,False,False,Matched,Linked on OKR key
+X-1251,Key result,2027,Risk Technology,DEMO-1251,False,False,Matched,Linked on OKR key
+X-1252,Initiative,2027,Risk Technology,DEMO-1252,False,False,Matched,Linked on OKR key
+X-1253,Initiative,2027,Risk Technology,DEMO-1253,False,False,Matched,Linked on OKR key
+X-1254,Key result,2027,Risk Technology,DEMO-1254,False,False,Matched,Linked on OKR key
+X-1255,Initiative,2027,Risk Technology,DEMO-1255,False,False,Matched,Linked on OKR key
+X-1256,Initiative,2027,Risk Technology,DEMO-1256,False,False,Matched,Linked on OKR key
+X-1257,Domain/Team,2027,Risk Technology,DEMO-1257,False,False,Matched,Linked on OKR key
+X-1258,Key result,2027,Risk Technology,DEMO-1258,False,False,Matched,Linked on OKR key
+X-1259,TRIBE Objectives,2027,Risk Technology,DEMO-1259,False,False,Matched,Linked on OKR key
+X-1260,Key result,2027,Risk Technology,DEMO-1260,False,False,Matched,Linked on OKR key
+X-1261,Initiative,2027,Risk Technology,DEMO-1261,False,False,Matched,Linked on OKR key
+X-1262,Key result,2027,Risk Technology,DEMO-1262,False,False,Matched,Linked on OKR key
+X-1263,Initiative,2027,Risk Technology,DEMO-1263,False,False,Matched,Linked on OKR key
+X-1264,Key result,2027,Risk Technology,DEMO-1264,False,False,Matched,Linked on OKR key
+X-1265,Initiative,2027,Risk Technology,DEMO-1265,False,False,Matched,Linked on OKR key
+X-1266,Initiative,2027,Risk Technology,DEMO-1266,False,False,Matched,Linked on OKR key
+X-1267,ERSTE GROUP OBJ.,2027,Operations Enablement,,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1268,TRIBE Objectives,2027,Operations Enablement,DEMO-1268,False,False,Matched,Linked on OKR key
+X-1269,Key result,2027,Operations Enablement,DEMO-1269,False,False,Matched,Linked on OKR key
+X-1270,Initiative,2027,Operations Enablement,DEMO-1270,False,False,Matched,Linked on OKR key
+X-1271,Key result,2027,Operations Enablement,DEMO-1271,False,False,Matched,Linked on OKR key
+X-1272,Initiative,2027,Operations Enablement,DEMO-1272,False,False,Matched,Linked on OKR key
+X-1273,Initiative,2027,Operations Enablement,DEMO-1273,False,False,Matched,Linked on OKR key
+X-1274,Key result,2027,Operations Enablement,DEMO-1274,False,False,Matched,Linked on OKR key
+X-1275,Initiative,2027,Operations Enablement,DEMO-1275,False,False,Matched,Linked on OKR key
+X-1276,Initiative,2027,Operations Enablement,DEMO-1276,False,False,Matched,Linked on OKR key
+X-1277,Domain/Team,2027,Operations Enablement,DEMO-1277,False,False,Matched,Linked on OKR key
+X-1278,Key result,2027,Operations Enablement,DEMO-1278,False,False,Matched,Linked on OKR key
+X-1279,TRIBE Objectives,2027,Operations Enablement,DEMO-1279,False,False,Matched,Linked on OKR key
+X-1280,Key result,2027,Operations Enablement,DEMO-1280,False,False,Matched,Linked on OKR key
+X-1281,Initiative,2027,Operations Enablement,DEMO-1281,False,False,Matched,Linked on OKR key
+X-1282,Initiative,2027,Operations Enablement,DEMO-1282,False,False,Matched,Linked on OKR key
+X-1283,Key result,2027,Operations Enablement,DEMO-1283,False,False,Matched,Linked on OKR key
+X-1284,Initiative,2027,Operations Enablement,DEMO-1284,False,False,Matched,Linked on OKR key
+X-1285,Key result,2027,Operations Enablement,DEMO-1285,False,False,Matched,Linked on OKR key
+X-1286,Initiative,2027,Operations Enablement,DEMO-1286,False,False,Matched,Linked on OKR key
+X-1287,ERSTE GROUP OBJ.,2027,Payments Technology,,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1288,TRIBE Objectives,2027,"Digital Channels,Data Platforms",DEMO-1288,False,False,Matched,Linked on OKR key
+X-1289,Key result,2027,Payments Technology,DEMO-1289,False,False,Matched,Linked on OKR key
+X-1290,Initiative,2027,Payments Technology,DEMO-1290,False,False,Matched,Linked on OKR key
+X-1291,Key result,2027,Payments Technology,DEMO-1291,False,False,Matched,Linked on OKR key
+X-1292,Initiative,2027,Payments Technology,DEMO-1292,False,False,Matched,Linked on OKR key
+X-1293,Initiative,2027,Payments Technology,DEMO-1293,False,False,Matched,Linked on OKR key
+X-1294,Key result,2027,Payments Technology,DEMO-1294,False,False,Matched,Linked on OKR key
+X-1295,Initiative,2027,Payments Technology,DEMO-1295,False,False,Matched,Linked on OKR key
+X-1296,Initiative,2027,Payments Technology,DEMO-1296,False,False,Matched,Linked on OKR key
+X-1297,Domain/Team,2027,Payments Technology,DEMO-1297,False,False,Matched,Linked on OKR key
+X-1298,Key result,2027,Payments Technology,DEMO-1298,False,False,Matched,Linked on OKR key
+X-1299,TRIBE Objectives,2027,Payments Technology,DEMO-1299,False,False,Matched,Linked on OKR key
+X-1300,Key result,2027,Payments Technology,DEMO-1300,False,False,Matched,Linked on OKR key
+X-1301,Initiative,2027,Payments Technology,DEMO-1301,False,False,Matched,Linked on OKR key
+X-1302,Key result,2027,Payments Technology,DEMO-1302,False,False,Matched,Linked on OKR key
+X-1303,Initiative,2027,Payments Technology,DEMO-1303,False,False,Matched,Linked on OKR key
+X-1304,Key result,2027,Payments Technology,DEMO-1304,False,False,Matched,Linked on OKR key
+X-1305,Initiative,2027,Payments Technology,DEMO-1305,False,False,Matched,Linked on OKR key
+X-1306,ERSTE GROUP OBJ.,2027,Core Services,,,,OKR only,Expected: the 'ERSTE GROUP OBJ.' tier is not tracked in Jira
+X-1307,TRIBE Objectives,2027,Core Services,DEMO-1307,False,False,Matched,Linked on OKR key
+X-1308,Key result,2027,Core Services,DEMO-1308,False,False,Matched,Linked on OKR key
+X-1309,Initiative,2027,Core Services,DEMO-1309,False,False,Matched,Linked on OKR key
+X-1310,Initiative,2027,Core Services,DEMO-1310,False,False,Matched,Linked on OKR key
+X-1311,Key result,2027,Core Services,DEMO-1311,False,False,Matched,Linked on OKR key
+X-1312,Initiative,2027,Core Services,DEMO-1312,False,False,Matched,Linked on OKR key
+X-1313,Key result,2027,Core Services,DEMO-1313,False,False,Matched,Linked on OKR key
+X-1314,Initiative,2027,Core Services,DEMO-1314,False,False,Matched,Linked on OKR key
+X-1315,Initiative,2027,Core Services,DEMO-1315,False,False,Matched,Linked on OKR key
+X-1316,Domain/Team,2027,Core Services,DEMO-1316,False,False,Matched,Linked on OKR key
+X-1317,Key result,2027,Core Services,DEMO-1317,False,False,Matched,Linked on OKR key
+X-1318,TRIBE Objectives,2027,Core Services,DEMO-1318,False,False,Matched,Linked on OKR key
+X-1319,Key result,2027,Core Services,DEMO-1319,False,False,Matched,Linked on OKR key
+X-1320,Initiative,2027,Core Services,DEMO-1320,False,False,Matched,Linked on OKR key
+X-1321,Initiative,2027,Core Services,DEMO-1321,False,False,Matched,Linked on OKR key
+X-1322,Key result,2027,Core Services,DEMO-1322,False,False,Matched,Linked on OKR key
+X-1323,Initiative,2027,Core Services,DEMO-1323,False,False,Matched,Linked on OKR key
+X-1324,Initiative,2027,Core Services,DEMO-1324,False,False,Matched,Linked on OKR key
+X-1325,Key result,2027,Core Services,DEMO-1325,False,False,Matched,Linked on OKR key
+X-1326,Initiative,2027,Core Services,DEMO-1326,False,False,Matched,Linked on OKR key
+X-1327,Initiative,2027,Core Services,DEMO-1327,False,False,Matched,Linked on OKR key
+,Task,2027,Cloud Engineering,DEMO-5000,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Core Services,DEMO-5001,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2027,Digital Channels,DEMO-5002,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2027,Operations Enablement,DEMO-5003,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Data Platforms,DEMO-5004,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Cloud Engineering,DEMO-5005,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Payments Technology,DEMO-5006,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2027,Customer Experience,DEMO-5007,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2027,Digital Channels,DEMO-5008,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Core Services,DEMO-5009,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Risk Technology,DEMO-5010,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2027,Operations Enablement,DEMO-5011,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2027,Data Platforms,DEMO-5012,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Customer Experience,DEMO-5013,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Risk Technology,DEMO-5014,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Payments Technology,DEMO-5015,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Data Platforms,DEMO-5016,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Customer Experience,DEMO-5017,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Data Platforms,DEMO-5018,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2027,Payments Technology,DEMO-5019,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2027,Digital Channels,DEMO-5020,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2027,Data Platforms,DEMO-5021,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2027,Cloud Engineering,DEMO-5022,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Customer Experience,DEMO-5023,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Digital Channels,DEMO-5024,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2027,Core Services,DEMO-5025,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Risk Technology,DEMO-5026,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2027,Customer Experience,DEMO-5027,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Data Platforms,DEMO-5028,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2027,Data Platforms,DEMO-5029,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2027,Risk Technology,DEMO-5030,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"
+,Task,2026,Digital Channels,DEMO-5031,,,Jira only,"No OKR key (label: ad-hoc); no parent either, so a link cannot be inferred"

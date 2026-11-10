@@ -1,0 +1,46 @@
+{
+  "report_date": "2026-11-04",
+  "report_cycle": 2026,
+  "cycles": [
+    2026,
+    2027
+  ],
+  "freshness_reliable_cycles": [
+    2026
+  ],
+  "sources": {
+    "okr": "Candidate_OKR_Raw_Export.xlsx",
+    "jira": "Candidate_Jira_Issues.csv"
+  },
+  "okr_rows": 327,
+  "jira_rows": 343,
+  "okr_duplicates": 0,
+  "blocking_checks": {
+    "okr_rows_preserved": true,
+    "okr_one_record_per_key": true,
+    "jira_rows_preserved": true,
+    "reconciliation_covers_all": true,
+    "report_cycle_in_data": true
+  },
+  "warnings": [],
+  "indent_agreement": "304/304",
+  "key_pairing_share": 1.0,
+  "match_categories": {
+    "Matched": 308,
+    "Jira only": 32,
+    "OKR only": 16,
+    "Matched (issue key repaired)": 3
+  },
+  "metric_checks": {
+    "kr_total": 112,
+    "missing_current": 5,
+    "zero_range": 0,
+    "decrease_wrong_way": 22,
+    "increase_wrong_way": 1,
+    "boolean_non_binary": 24,
+    "mixed_units": 1,
+    "comparable": 107,
+    "gap_over_20": 69,
+    "corr": -0.02
+  }
+}
